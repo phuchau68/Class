@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hUREOBQVZ+d9lG8/VgORgQNDIkIeeMDegr31ZXxsTHU=",
+  "Source": "BemmEduApi",
+  "BasePath": "_content/BemmEduApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
