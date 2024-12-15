@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BemmEduApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cd92606773c8b8f17feed8c03578b65824c98cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb5b9a689bc35764ad5c89ee8e14ab9968d7b5b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("BemmEduApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BemmEduApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

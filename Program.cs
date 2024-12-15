@@ -25,4 +25,3 @@ namespace BemmEduApi
                 });
     }
 }
-// Nguyen Phuc Hau
